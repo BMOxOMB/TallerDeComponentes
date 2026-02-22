@@ -1,0 +1,8 @@
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\ControlWindows\ControlWindows\bin\Debug\ControlWindows.dll
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\ControlWindows\ControlWindows\bin\Debug\ControlWindows.pdb
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.AssemblyReference.cache
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\ControlWindows\ControlWindows\obj\Debug\ControlWindows.UserControl1.resources
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.GenerateResource.cache
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.CoreCompileInputs.cache
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\ControlWindows\ControlWindows\obj\Debug\ControlWindows.dll
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\ControlWindows\ControlWindows\obj\Debug\ControlWindows.pdb

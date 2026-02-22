@@ -1,0 +1,8 @@
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\TraductorESP_EN\TraductorESP_EN\bin\Debug\TraductorESP_EN.dll
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\TraductorESP_EN\TraductorESP_EN\bin\Debug\TraductorESP_EN.pdb
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\TraductorESP_EN\TraductorESP_EN\obj\Debug\TraductorESP_EN.csproj.AssemblyReference.cache
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\TraductorESP_EN\TraductorESP_EN\obj\Debug\TraductorESP_EN.UserControl1.resources
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\TraductorESP_EN\TraductorESP_EN\obj\Debug\TraductorESP_EN.csproj.GenerateResource.cache
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\TraductorESP_EN\TraductorESP_EN\obj\Debug\TraductorESP_EN.csproj.CoreCompileInputs.cache
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\TraductorESP_EN\TraductorESP_EN\obj\Debug\TraductorESP_EN.dll
+C:\Users\moren\Desktop\Efra\U\Deseño de componentes\Tareas\Taller de componentes\ControlWindows VS\TraductorESP_EN\TraductorESP_EN\obj\Debug\TraductorESP_EN.pdb
